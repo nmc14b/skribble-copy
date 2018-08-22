@@ -7,3 +7,7 @@ https://www.youtube.com/watch?v=bjULmG8fqc8&list=PLRqwX-V7Uu6b36TzJidYfIYwTFEq3K
 # How to use mongo db for chatting
 https://www.youtube.com/watch?v=8Y6mWhcdSUM
 
+# Required node modules
+```js
+npm install sockets.io express --save
+```
